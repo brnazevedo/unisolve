@@ -1,0 +1,4 @@
+# exclude everything except directory /.firebase*/dist*
+/node_module*
+/bower_components*
+package.lock.json
